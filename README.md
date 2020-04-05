@@ -1,2 +1,2 @@
 # Curso-ProgramacionDeCero-Udemy-Ejercicios
-Pseudocódigo
+## Pseudocódigo - Ejercicios
